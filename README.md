@@ -1,10 +1,9 @@
 ### Hi there 👋I am Neel Mehta
 
 
-- 🔭 I’m currently working on something cool
+- 🔭 I’m currently working on something amazing
 - 🌱 I’m currently learning everything🤣
 - 👯 I’m looking to explore my skills
-- 🤔 I’m looking for help with ...
 <!-- - ⚡ Fun fact:  -->
 
 # My stats
