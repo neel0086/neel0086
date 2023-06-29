@@ -30,7 +30,7 @@
 
 ### 🚀 Languages
 
-![Python](https://img.shields.io/badge/Python-59666C?style=for-the-badge&logo=python&logoColor=306998)
+![Python](https://img.shields.io/badge/Python-0b001f?style=for-the-badge&logo=python&logoColor=306998)
 ![JAVA](https://img.shields.io/badge/Java-193D6C?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-9769AD?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-FE7A16?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -43,6 +43,8 @@
 ### 💻 Libraries & Framework
 
 <!-- ![React](https://img.shields.io/badge/React-20249B?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+![Spring Boot](https://img.shields.io/badge/SpringBoot-563D7C?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/MICROSERVICES-0b001f?style=for-the-badge&logo=spring&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-9769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-331932?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -74,15 +76,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neel-mehta-71857b1bb/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+		<img src="https://img.shields.io/badge/LinkedIn-5802f2?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://www.instagram.com/neelmehta08">
-		<img src="https://img.shields.io/badge/Instagram-FE7A16?style=for-the-badge&logo=instagram&logoColor=white" />
+		<img src="https://img.shields.io/badge/Instagram-0b001f?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
 	
   <br>
-  <a href="https://www.instagram.com/neelmehta08">
-		<img src="https://komarev.com/ghpvc/?username=neel0086&color=green" />
+  <a href="#">
+		<img src="https://komarev.com/ghpvc/?username=neel0086&color=5802f2" height=28/>
 	</a>
 </p>
 
